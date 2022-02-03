@@ -6,11 +6,6 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
       </Head>
-      <body>
-        <h1 className="justify-center font-semibold 3xl bg-blend-color">
-          Hello world
-        </h1>
-      </body>
     </div>
   )
 }
